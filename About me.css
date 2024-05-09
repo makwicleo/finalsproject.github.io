@@ -116,6 +116,7 @@ html {
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
     padding-top: 80px;
     background-image: url("Texture.png");
     background-size: cover;
@@ -132,7 +133,7 @@ html {
     width: 300px;
     height: 300px;
     border-radius: 50px;
-    margin-top: 20px;
+    margin-top: 200px;
     background-image: url("unnamed.png");
     background-size: cover;
     background-position: center;
@@ -159,7 +160,7 @@ html {
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 200px;
 }
 
 .social-icons a {

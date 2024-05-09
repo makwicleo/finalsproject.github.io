@@ -110,17 +110,16 @@
     height: 20px;
     }
 
-    html {
-        width: 100%;
-    }
     /* Katawan niya to gar */
     .body {
         font-family: 'Times New Roman', Times, serif;
         display: flex;
         flex-direction: column;
-        padding: 110px;
         background-image: url("Texture.png");
         background-size: cover;
+        height: 100%;
+        padding-top: 260px;
+        padding-bottom: 260px;
     }
 
     .body-container {
@@ -161,6 +160,7 @@
         display: flex;
         justify-content: center;
         margin-top: 20px; 
+        margin-bottom: 100px;
     }
     
     .social-icons a {

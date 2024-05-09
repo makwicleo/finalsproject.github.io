@@ -118,6 +118,7 @@ html {
     padding-top: 80px;
     background-image: url("Texture.png");
     background-size: cover;
+    height: 100vh;
 }
 
 .body-container {

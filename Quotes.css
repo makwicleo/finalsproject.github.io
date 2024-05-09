@@ -120,6 +120,9 @@ html {
     margin: 0;
     background-image: url("Texture.png");
     background-size: cover;
+    height: 100%;
+    padding-top: 260px;
+    padding-bottom: 260px;
 }
 
 .body-container {
@@ -127,7 +130,6 @@ html {
     flex-direction: column;
     align-items: center;
     margin-bottom: 10px;
-    margin: 0 auto;
 }
 
 .picture-gallery {
